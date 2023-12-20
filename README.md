@@ -14,5 +14,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors
   - universaalvalija (`*`)
   - klassivalija (`.<klassi nimi>`)
   - id valija (`#<id>`)
-  
 
+
+Ability to pass Context to Visit method - Feature request #287
+https://github.com/gocolly/colly/issues/287

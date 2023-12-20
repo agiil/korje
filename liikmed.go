@@ -9,8 +9,9 @@ import (
 )
 
 type liige struct {
-	nimi string
-	url  string
+	nimi           string
+	url            string
+	enesetutvustus string
 }
 
 var (
@@ -65,12 +66,12 @@ func main() {
 	c1.Visit("https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/")
 
 	// Prindi liikmete arv
-	fmt.Println("Liikmeid: ", liikmeid)
+	fmt.Println("Liikmeid: ", len(liikmed))
 
 	// Prindi liikmed
-	for _, l := range liikmed {
+	/* for _, l := range liikmed {
 		fmt.Printf("%s %s\n", l.nimi, l.url)
-	}
+	} */
 
 	// Teine koguja : Kogub liikmete enesetutvustused
 	c2 := colly.NewCollector(
@@ -79,7 +80,30 @@ func main() {
 
 	// Eralda enesetutvustused
 	// CSS klass profile-desc all 2. p-element
-	c2.OnHTML("a[href]", func(e *colly.HTMLElement) {
+	c2.OnHTML(".profile-desc p:nth-child(3)", func(e *colly.HTMLElement) {
+		enesetutvustus := e.Text
+		fmt.Println("*****: ", enesetutvustus)
 	})
+
+	// Käivita enesetutvustuste koguja
+	// for i, _ := range liikmed {
+	for i := 52; i <= 60; i++ {
+		/* if i == 102 {
+			break
+
+		} */
+
+		fmt.Println(i)
+
+		// Kontekst enesetutvustuste kogumisele
+		ctx2 := colly.NewContext()
+		ctx2.Put(`liikme nr`, i)
+
+		c2.Visit(liikmed[i].url)
+		// Konteksti edasiandmiseks kasutan
+		// c2.Request("GET", liikmed[i].url, nil, ctx2, nil)
+
+		// time.Sleep(8 * time.Second)
+	}
 
 }
