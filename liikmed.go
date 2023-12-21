@@ -87,7 +87,7 @@ func main() {
 
 	// Käivita enesetutvustuste koguja
 	// for i, _ := range liikmed {
-	for i := 52; i <= 60; i++ {
+	for i := 73; i <= 80; i++ {
 		/* if i == 102 {
 			break
 
