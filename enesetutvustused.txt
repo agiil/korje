@@ -1,200 +1,59 @@
-Liikmeid:  101
-0
-*****:  Olen hariduselt õpetaja. Üle kümne aasta töötasin koolis, aga enamiku tööelust olen olnud avalikus teenistuses. Olen olnud Võhma linnapea, linnade liidu tegevdirektor, Riigikogu kolme koosseisu liige, sotsiaalminister, riigihalduse minister. Olen viiekordne vanaisa.Tahan seista õiglase ja solidaarse riigi eest. Mul on kogemusi ja teadmisi, et kaasa rääkida riigi sotsiaal- ja tervishoiupoliitika, regionaalpoliitika ning riigireformi valdkonnas. Kindlasti seisan oma valimisringkonna, Järva- ja Viljandimaa huvide eest.
-1
-*****:  Ma tahan Eesti poliitikas esile kutsuda nelja mõtteviisi muutust. Ma soovin, et mõistetaks järgmist.Esiteks, maksude kehtestamisel tuleb vaadata meiega konkureerivate riikide maksumäärade mõju meie majandusele.Teiseks, tasuta asju ei ole olemas.Kolmandaks, peaaegu ainus poliitikutest sõltuv riigi arengu faktor on see, kui vähendatakse bürokraatiat ning ergutatakse ettevõtlikkust ja loovust.Neljandaks, looduskaitse on eelkõige loodusega kooskõlas elamine (mahepõllumajandus ning loodusvarade säästlik kasutamine).
-2
-*****:  Minu eesmärk on aidata hoida ja arendada Eestit, kus näen praegu ja tahan alati näha väärtuspõhist elu, avatust, julgust ja headust. Ma tahan, et siin oleks palju vabadust, loodust ja nutikust.Eestil seisavad ees tõsised väljakutsed. Me peame õppima loodusressurssidega ja ka inimressursiga säästvamalt ja targemalt ümber käima, peame majandama ringselt. Ainult nii saame oma lastele julgelt silma vaadata, sest siis teame, et jätame neile ja ka nende lastele elamisväärse Eesti, maailma parima elukeskkonnaga Eesti. Just see ongi minu eesmärk: töötada selle nimel, et saaksin oma ja kõigile Eesti lastele selgelt ja julgelt silma vaadata.
-3
-*****:  Olen Eesti patrioot. Kogu oma senise teadliku elu olen erinevatel viisidel pühendunult  tegutsenud Eesti elujõu suurendamise nimel. Mulle on väga oluline, et inimväärne elu oleks võimalik kõikjal Eestis ja et annaksime oma lastele parima võimaliku ettevalmistuse iseseisvaks eluks. Need kaks eesmärki on mulle minu Riigikogu töös kõige olulisemad. Samuti on mulle väga oluline tagada inimeste põhiseaduslike õiguste igakülgne järgimine.
-4
-*****:  Eesti riigi jätkusuutliku eksisteerimise üheks aluseks on toidujulgeoleku tagamine maaelu ja maapiirkondade tugevdamise abil. Soovin kaasa aidata kõikide Eesti maapiirkondade arengule ja toetada neisse piirkondadesse investeerimist. Pööran suurt tähelepanu sisserände ja töörände küsimustele. Kohalik inimene ei tohi kindlasti tunda ennast tõrjutu ja kõrvalejäetuna.Ida-Virumaa ja maaelu patrioodina seisan kogu selle piirkonna arengu eest. Riigikogus kaitsen meie riigi oma elektritootmist ja põlevkivitööstust.
-5
-*****:  Olen 8 aastat töötanud ajakirjanduses ning ligi 15 aastat olen olnud poliitik ja töötanud ametnikuna. Riigikogu liikmena seisan Eesti ühiskonna suurema sidususe ning inimeste ja ettevõtete parema hakkama saamise eest. Riik peab olema armastatud kodu kõigile oma elanikele, sõltumata nende vanusest, rahvusest, soost või emakeelest. Seisan selle eest, et riik ulataks abikäe kõigile nendele, kes seda vajavad.
-6
-*****:  Töötan Riigikogus viiendat koosseisu. Esindan ja püüan ellu viia Eesti Keskerakonna ja mind Riigikokku valinud inimeste mõtteid.
-7
-*****:  Kui riik ennast vaikselt Tallinnasse kokku tõmbab, lähevad inimesed paratamatult järele. Aga riik saab käituda ka vastupidiselt ja küll siis inimesed hea meelega Võru , Põlva  ja Valgamaal tegutsevad ning seal lapsi kasvatavad. Et õiged otsused sünniksid, peab Riigikogus olema rohkem neid, kes ise oma perega Kagu-Eestis päriselt elavad. Mina olen üks neist. Mina ei kavatse Võrumaalt kusagile kolida.
-8
-9
-*****:  Olen 24 aastat ettevõtluse kaudu tegelenud juriidilise nõustamisega. Pikaajalised kogemused kinnitavad, et kehtivas õiguses, kohtusüsteemi ja prokuratuuri töös on palju ebaõiglust, mistõttu tavakodanik jääb oma muredega seaduste hammasrataste vahele. Julgen väita, et riik on oma valitsemisstiiliga rahvast eemaldunud, rahvas meenub alles siis, kui valimised lähenevad. Loodan, et mul õnnestub olukorda muuta, nii et riik oleks inimeste jaoks, mitte vastupidi. Ülitähtsaks pean mõtet „Ükski võõrvõim ei asenda omariiklust“.
-10
-*****:  Soovin, et Eesti oleks edukas ja õiglane riik, kus tunnustatakse neid, kes meie ühiskonda panustavad, ning aidatakse neid, kes vajavad suuremat tuge.
-~/TÖÖS/korje$ go run liikmed.go
-Liikmeid:  101
-11
-*****:  Olen maailmavaatelt klassikaline liberaal. Leian, et eraomanik on vara kõige parem peremees. Ei tohi piirata inimeste motivatsiooni pingutada ning parema tuleviku poole püüelda, pannes neile selle eest proportsionaalselt raskema koorma.Tituleerin end munitsipaalpoliitikuks, kellel maapiirkondade käekäik on alati südamel. Võtan alati sõna, kui on vaja kaitsta väljapoole Harjumaad jäävaid regioone. Eesti maaelu on väärtus, mida peame hoidma.
-12
-*****:  Olen muusik, väikeettevõtja ja poliitik. Riigikogus tahan tegeleda sotsiaalteemadega, seista pereväärtuste kaitsel, toetada ettevõtjaid ja kultuuritöötajaid. Ma lähtun põhimõttest, et Eesti riik on loodud eesti rahvuse, keele ja kultuuri säilimise tagamiseks üle aegade. Meie poliitika peab igas valdkonnas lähtuma tõsiasjast, et ilma eestlasteta ei ole ka Eesti riiki. Tahan teha kõik, et eesti rahva huvid oleksid kaitstud ja heaolu tagatud.
-13
-*****:  Olen rahvuskonservatiiv, soovin seista Eesti rahvuskultuuri arengu ning Eesti riikluse ja iseseisvuse tugevnemise eest rahvusriikide Euroopas.
-14
-15
-*****:  Ma usun, et meie riiki on võimalik viia uuele tasemele nii hariduses, julgeolekus, riigivalitsemises, tervishoius, majanduses kui ka energeetikas. Usun ka seda, et õigete otsuste abil on Eestil ja meie inimestel võimalik olla tark ja jõukas ning erinev ja eriline. Riigikogu töös peab kesksel kohal olema Eesti inimene, kellele tahan anda usku ja lootust, et Eesti läheb edasi, avatuse, arukuse ja vabaduse teed.
-16
-*****:  Rohelise ja liberaalse maailmavaate esindajana olen seisnud nii keskkonna ja kliima kaitsmise kui ka inimeste õiguste ja võrdsete võimaluste eest. Seda tööd kavatsen teha ka Riigikogu liikmena, kasutades selleks kõiki ametikoha tõttu tekkivaid võimalusi. Minu unistus on, et nelja aasta pärast metsade tagavara vähenemise asemel suureneks, me oleksime riigina võtnud omaks kliimaneutraalse majanduse tee ning Riigikogu ees oleks parkla asemel park.
-17
-*****:  Soovin kaasa aidata regioonide arengule. Olen Ida-Virumaa patrioot. Arvan, et see piirkond vajab ja väärib erilist tähelepanu.
-18
-*****:  Minu jaoks on oluline, et Eesti tervishoid oleks tugev ja jätkusuutlik ning patsientidele saaks pakkuda õigeaegset ja kvaliteetset abi. Lisaks pean oluliseks pidurdada terviseohtliku väärinfo levikut. Sel teemal vajab Eesti ühiskond diskussiooni, sest tuleb leida lahendused, mis ühtaegu tagavad piisava sõnavabaduse, aga ei kahjusta kellegi tervist.
-19
-*****:  Alates 2005. aastast olen tegelenud sotsiaalse sidususe ja integratsiooni teemadega eri tasanditel: teaduslikul, ajakirjanduslikul ja munitsipaaltasandil. Pean oluliseks jätkata tegevust suunas, mis soodustaks ühiskonna lõimumist ja ühise inforuumi tekkimist. Töötan selle nimel, et noortele oleks tagatud kvaliteetne ja nüüdisaegne haridus ning õppekeskkond oleks turvaline ja tõhus. Tahan panustada ka Eesti eakatele väärika elu loomisse.
-20
-*****:  Olen teadlane, füüsik. Esindan teadmistepõhist ja teaduslikku mõtteviisi. Minu missiooniks on meie haridussüsteemi parandades tagada tark ja teadlik järelkasv, sest targad inimesed on vajalikud targa majanduse jaoks ning tehnoloogiliste võimaluste kaudu parema tuleviku loomiseks. Meie suurim väärtus on meie keskkond, mistõttu on seda ülimalt oluline kaitsta. Toetan laiapõhjalist, heitmevaba ning turupõhist energiaportfelli, mille abil oleks võimalik tagada jätkusuutlik tulevik ja julgeolek.
-~/TÖÖS/korje$ go run liikmed.go
-Liikmeid:  101
-21
-*****:  Endise ettevõtjana olen mõistagi kõige enam huvitatud sellest, et Riigikogu omalt poolt panustaks soodsa ettevõtluskeskkonna kujundamisse ning Eesti ettevõtete ekspordipotentsiaali realiseerimisse, toetades niimoodi majanduskasvu. Riigikogus olen seni enim tegelenud välis- ja julgeolekupoliitika teemadega ning need on majandus- ja rahandusküsimuste kõrval minu tähelepanu keskpunktis ka edaspidi. 
-22
-*****:  Usun, et vabadus, demokraatia, liberaalne majanduspoliitika ja kuulumine Euroopasse on Eestile parim. Ajan ja toetan just sellist poliitikat.
-23
-*****:  Eesti rahvaarv peab kahanemise asemel kasvama ja seda peavad poliitikud kõikvõimalike programmide ja meetmetega toestama. Täisväärtuslik elu peab olema võimalik ka väljaspool Tallinna "kuldset ringi", aga maakonnad lähenevad oma elanike arvult kriitilisele piirile, kust alates on teenuste arendamine ülimalt raske. Seda tendentsi on võimalik muuta nii kapitali kui ka töökohtade suunamisega väljapoole Harjumaad, samuti maksuerisuste kaudu. Maksusüsteem peab olema õiglasem, investeeringud teadus- ja arendustöösse mahukamad.
-24
-*****:  Valga vallavanemana töötades tekkis mul selge arusaam, kuidas peab üks omavalitsus töötama, millised on inimeste mured ja kuidas saab riik kohaliku elu toimimisse panustada. Ka väljaspool Harjumaad peaks saama kõiki nüüdisajal vajalikke teenuseid!Kõik maaeluga seonduv, ühistransport, kütuseaktsiis, inimeste toimetulek, kõrgharidus, laste vähene kehaline aktiivsus, noorte huvitegevus ja vaimne tervis, lastetoetused, õpetajate, päästjate ja politseinike ning õdede palga tõus, sotsiaalkaitseküsimused ja teised olulised teemad vajavad ka edaspidi tähelepanu ning lahendusi.
-25
-*****:  Olen pärit Põltsamaa lähedalt Lustivere külast. Kandideerisin Riigikokku Reformierakonna meeskonnas, sest soovin, et Eestis jätkuks inimeste ettevõtlikkust ja edumeelsust soosiv poliitika, mis on olnud Eesti edu aluseks. Peale poliitika naudin sportimist ja mälumängu ning osalen aktiivselt ka kohaliku omavalitsuse töös.
-26
-*****:  Tahan aidata kaasa Kagu-Eesti arengule ja tema omanäolisuse hoidmisele. Lisaks on minu eesmärk muuta Eesti ühiskond sallivamaks ja avatumaks.
-27
-*****:  Olen solidaarse tervishoiusüsteemi, inimkeskse sotsiaalpoliitika ning õiglase maksupoliitika veendunud toetaja. Ühtlasi pean väga oluliseks keskkonnakaitset ning rohelise mõtteviisi ja tervislike eluviiside edendamist. Seisan Riigikogu XV koosseisus selle eest, et riik toetaks inimesi ja ettevõtteid mitme samaaegse kriisiga toimetulekul ning tagaks oma elanikele vajalike teenuste ja toetuste kättesaadavuse nii suurtes keskustes kui ka väiksemates omavalitsustes.
-28
-29
-*****:  Minule on oluline, et Eesti saaks vabaks vohavast korruptsioonist. Meie riigi kodanikud peavad saama usaldada oma riiki ja riigi halduses olevate asutuste tegevust. Riigi õigussüsteem peab andma inimestele kindlustunde, et kõiki inimesi koheldakse õiglaselt ja võrdsetel alustel ning et iga üksikisik saab vajaduse korral tunda riigi tuge. Seisan selle eest, et Eestist saaks ka tegelikkuses õigusriik, kus kodanike õigused on kaitstud ja kus kõik saavad tunda ennast turvaliselt. Põhiseadus tuleb taas tõsta ausse. Seisan ausa ja õiglase õigussüsteemi eest.
-30
-*****:  Riigikogu liikmena panustan lisaks kultuuri- ja haridusvaldkonnale ka terve elukeskkonna ning arvestava ja kaasava ühiskonna kujundamisse. Kultuur ja loomemajandus on osa kaasaegsest majandusest: edukas majandus toetab kultuuri ja kultuur annab ettevõtlusele väärtuse.Kunstnikuna soovin suurendada visuaalkultuuri ning disaini- ja arhitektuurivaldkonna olulisust avalikku ruumi puudutavate seaduste analüüsimisel.
-~/TÖÖS/korje$ go run liikmed.go
-Liikmeid:  101
-31
-*****:  Riigikogus olles sean jätkuvalt esiplaanile Pärnumaa huvide esindamise. Need on tihtipeale ka riigi huvid. Nimetagem Via Baltica neljarajaliste lõikude ja Rail Balticu ehitamist või Pärnu uut silda, millele õnnestus eelmise Riigikogu koosseisu ajal tagada riigipoolne rahastus. 
-32
-*****:  Olen põhimõtteline liberaal ja arvan, et iga terve täisealine inimene peaks panustama ühiskonna, kogukonna, perekonna, aga ka iseenda arengusse. Alles siis tekib tal õigustatud ootus ning õigus saada abi ka ühiskonnalt. Soovin Riigikogus hea seista selle eest, et Eesti areng oleks ühtlasem, et abi saaksid need, kellel seda tegelikult vaja on, ning et tehtavad otsused oleksid teaduspõhised ja arusaadavalt põhjendatud.
-33
-*****:  Olen läbinisti ettevõtja, kes on kaasa löönud erinevates ühiskondlikes tegevustes ja kohaliku omavalitsuse volikogu töös. Kohaliku elu tundmine, selle kitsaskohtade nägemine ning soov probleemidele lahendusi leida on ajendanud mind poliitikasse sukelduma. Ma olen järginud elus kindlat põhimõtet, et kes teeb, see ka jõuab. Ettevõtjana olen püüdnud tuua poliitikasse pikemat visiooni, et me ei kardaks teha suuri otsuseid, millest sõltub nii meie kui ka järeltulevate põlvede heaolu.
-34
-*****:  Hoiame üheskoos esivanemate tavasid, väärtustades Eesti inimesi, riiki ja kultuuri.
-35
-*****:  Olen IT-ettevõtja, äriingel ja poliitik. Riigikogus on minu põhiteemad inimõigused, IT-poliitika ja loomakaitse.
-36
-*****:  Eesti riigi rikkus on meie inimesed. Et Eesti oleks teadmistepõhine ja innovaatiline riik, tuleb hariduse omandamiseks luua kõigile võrdsed võimalused. Eestis elab umbes 200 rahvuse esindajaid ja ma pean seda meie tugevuseks. Sidusust kui ressurssi tuleb senisest edukamalt ära kasutada. Riigikogus seisan ka selle eest, et seadusandja tegeleks senisest enam probleemide ennetamisega, mitte ülereguleerimisega.
-37
-*****:  Olen tegutsenud diplomaadi, riigiametniku ja ettevõtjana ning osalenud Eesti taasiseseisvumise protsessides ja riigiasutuste ülesehitamises 1990ndatel. Olen nõustanud demokraatlikke reforme teostavate riikide valitsusi, sh Gruusiat ja Ukrainat. Olen osalenud missioonil Iraqi Freedom aastatel 2003–2004. Mulle olulised valdkonnad on isikuvabadused ja inimõigused, riigikaitse ja välispoliitika, tark majandus ja hooliv ettevõtlus. Riigikogus pühendun eeskätt riigikaitse, julgeolekupoliitika ja välispoliitika küsimustele. Soovin ka kaasa lüüa rumalate regulatsioonide tühistamise ning kodaniku ja riigi vaheliste suhete inimlikustamise algatustes.
-38
-39
-40
-*****:  Olen Virumaa patrioot, kellele läheb väga korda inimeste tervis ja heaolu. Praegusel keerulisel ajal vajavad inimesed eelkõige võimalust olla terved, kaitstud ja majanduslikult kindlustatud. Oma senises tööelus olen tegelenud erinevate tervishoidu puudutavate teemadega ja soovin seda jätkata ka Riigikogu liikmena. Soovin, et kõik inimesed, kes ravi vajavad, seda ka saaksid. Mulle meeldib väga ütlemine „Maailma põhiseadus on headus!“.
-~/TÖÖS/korje$ go run liikmed.go
-Liikmeid:  101
-41
-42
-*****:  Riigikogu liikmena tahan kaasa aidata Eesti Vabariigi ja Balti riikide, samuti Soome kui meie hõimu- ja relvavenna julgeoleku tugevdamisele meie regioonis NATO kohaloleku ja võimekuse suurendamise teel. Samuti soovin panustada laiapõhjalise riigikaitse kontseptsioonile ja sõjalisele territoriaalkaitse strateegiale tugineva rahvusliku riigikaitse kui terviku ülesehitamisse. Parlamendiliikmena näen ühe eesmärgina ka meie rahva tervise parandamist tervete elukommete propageerimise, laste ja noorte kehakultuuri süsteemi loomise ja rahvaspordi arendamise kaudu.
-43
-*****:  Olen sotsiaalliberaal. Usun, et tugev riik peab toetama oma ettevõtjaid, kohalikku elu edendavaid omavalitsusi ning ühiskonna kõige haavatavamaid liikmeid. Seisan selle eest, et Eestis oleks „uhke ja hää“ elada kõikidel eestimaalastel, kellel on südames Eesti riigi areng ja püsimajäämine, olenemata nende päritoluriigist, rahvusest ja emakeelest. Eesti riik on tugev, kui meie inimesed hoiavad ühte.
-44
-*****:  Minu südameteemaks on terve elu olnud keskkond ja loodus. Olen kindel, et kliimamuutuste leevendamiseks peab toimuma süsteemimuutus, mis algab poliitikast. Lõputu majanduskasv, looduse pidamine vaid ressursiks ja elamine nooremate põlvkondade arvel ei saa jätkuda – igal aastal püstitame uue rekordi, millega planeedi taluvuspiiri ületame. Seisan ambitsioonika ja rahvusvaheliselt elluviidava kliimapoliitika eest, mis tagaks jätkusuutliku elu nii praegustele kui järgmistele põlvedele.
-45
-*****:  Väärtused on tähtsamad kui plaanid. Meie esivanemad lõid Eesti Vabariigi, et siinne rahvas elaks edukalt, turvaliselt ja jõukalt. Ideoloogiakeskne poliitikategemine peab muutuma ühiseks tegevuseks eesti rahva parema elujärje nimel. Eestlastel peab oma ainsal tegelikul kodumaal olema kindlus, et nende lastel on parem elu kui nende vanematel, et hästi ei lähe mitte ainult riigil, vaid ka rahval. Meie riigi edukust tõendab eesti rahva loomuliku iibe tõus.
-46
-*****:  Pean oluliseks seista vabaduse, õiguse, õigluse ja võrdse kohtlemise eest. Leian, et peame olema koostööaltimad ehk olema kuulavamad ja mõistvamad ning asju rohkem selgitama. Demokraatia alustoed on haridus ja teadmised, samuti jõukus, mis toetub leidlikkusele ja vabadusele. Tuleb tagada, et teod, mida teeme täna, ei oleks koormaks tulevikus, peame suhtuma säästvalt keskkonda ja käituma säästvalt ka riigi rahakotti kasutades.
-47
-48
-*****:  Juba koolipõlves üritasin ma seista nõrgemate ehk siis õpilaste õiguste eest ja sama eesmärk oli mul ka üliõpilasliikumises. Kirg õigusi kaitsta viis mind lõpuks tööle kohalikku omavalitsusse. Olles enam kui kolmandiku oma elust töötanud omavalitsusjuhina Tartumaal, soovin, et regionaalpoliitika oleks Eesti riigi edulugu. Tegutsen selle nimel, et Eesti inimesed tunneksid end siin turvaliselt ning et Eesti riigi elukorraldust iseloomustaks arukus, hoolivus ja sõbralikkus.
-49
-50
-*****:  Olen parempoolsete vaadete, kuid tugeva sotsiaalse närviga poliitik, kes julgeb oma seisukohta avaldada ja seda vajaduse korral ka kaitsta. Minule südamelähedased teemad on tervishoid ja eriti just teaduspõhine meditsiin. Ma tahan seista selle eest, et võrdselt hea arstiabi oleks kättesaadav kogu Eestis. Oma teadmisi nakkushaigustest olen jaganud enamikus Eesti ajalehtedes ja ajakirjades. Seda tegevust kavatsen vajaduse korral jätkata.
-51
-*****:  Oma pikaaegse ettevõtjakogemuse põhjal olen veendunud, et tasuta lõunaid saab pakkuda vaid enda teenitud raha eest. Omavalitsuste juhtimisel olen kogenud, et maksumaksja rahasse ei tohi suhtuda kui lohisevasse mõisaköide.Jagan täielikult Isamaa Erakonna maailmavaate aluspõhimõtetes toodud väärtusi, et rahvusliku konservatismi aluseks on pere, kodu, usk, isikuvabadused ja isamaa ning et väärtused lähtuvad traditsioonidest.
-52
-*****:  Minu tegevus Riigikogus lähtub kahest põhiväärtusest: kohalik kogukond ja elukeskkond. Tugev ja kompetentne kogukond tagab avalike huvide järgmise ja tema pikaajalistes huvides on, et säiliks t säiliks elukeskkond oma mitmekesisuses. Need kaks põhiväärtust määravad kohaliku identiteedi. Kohalikud identiteedid üheskoos on alustoeks meie Eesti kultuurile, selle püsimisele ja arenemisele. Sellel omakorda on oluline roll turvalisuses ja julgeolekus. Lühinägelik on käsitleda turvalisust ja julgeolekut vaid sotsiaalses ja geopoliitilises mõõtmes, jättes fookusest välja eksistentsiaalsed küsimused, mis on seotud keskkonna ja inimese suhetega.   
-53
-*****:  Olen arst, isa ja abikaasa. Perearst olen olnud üle kahekümne aasta, sama kaua ka Reformierakonnas.Minu eesmärgiks Riigikogus on, et iga inimene Eestis saaks õigeaegselt ravi ning tal oleks isiklik tervise hoidmise ja ravi plaan. Soovin üle vaadata tervishoiu rahastamise põhialused ja riigi kohustused tervishoiuteenuste osutamisel.Soovin seista noortespordi ja huviringide eest ning kaasa rääkida hariduse ja kultuuri arendamisel.
-54
-*****:  Kogemused, mis ma olen saanud omavalitsusjuhina, Pärnumaa Omavalitsuste Liidu juhatuse esimehena omavalitsuste koostööd vedades, Pärnu maavanemana ja Pärnu Linnavolikogu esimehena, on olnud mulle algkapital Riigikogu liikmena tööle asumiseks. Arvan, et on oluline koordineeritult arendada vähemalt nelja regionaalset keskust lisaks Tallinnale ja Tartule. Piirkondlik haridusvõrk peab toetama kohaliku ettevõtluse vajadusi ja arengusuundi. Olen veendunud, et kui keskkonna- ja majanduspoliitika teineteisest nii sisult kui ka vormilt kaugenevad, siis see ei ole kasulik kellelegi.
-55
-56
-*****:  Riigikogus seisan nii oma valimispiirkonna inimeste kui ka kogu Eesti rahva huvide eest. Minu jaoks on tähtsad sotsiaal- ja tervishoiupoliitika ning keskkonnateemad.
-57
-*****:  Minu eesmärk on selline Eesti, mis on kõigi siin elavate inimeste kodu, sõltumata nende eripärast. Igaüks võiks tunda end Eestis koduselt – turvaliselt, oodatuna, hoituna, mittetõrjutuna. Eesti peaks olema kui kodu, kus sind aidatakse, kus sinust hoolitakse, kus sind ei jäeta üksi. Soovin panustada sellesse, et meie ühine Eesti oleks just selline.
-58
-*****:  Keskendun oma töös lõimumise ja hariduse küsimustele.
-59
-60
-*****:  Olen linnastrateeg, “Ehituse teekaart 2040” peatoimetaja ja rohepöörde nõunik Tallinna Tehnikaülikoolis. Kaasasutasin Stockholmis juhtimiskonsultatsiooni ettevõtte, mis on aidanud Põhjalas, Hollandis, Šveitsis ning mujal asuvatel linnadel meelitada juurde rahvusvahelist tööjõudu ja investeeringuid. Usun Toomas Hendrik Ilvese ja Jaani Tõnissoni tööst ja ideedest kantuna, et Eesti on Põhjamaa.Olen veendunud, et Venemaa Vergangenheitsbewältigung ehk mineviku selgeks rääkimine on möödapääsmatu.
-61
-62
-*****:  Olen pühendunud sellele, et Eesti oleks avatud, sõbralik ja turvaline paik, kus inimesed on hoitud ja hinnatud ning lastel ja nende emadel, isadel, vanavanematel on hea elada, õppida ja pensionipõlve veeta.
-63
-*****:  Olen loomult ettevõtlik inimene, tegutsenud meedia ja muusika valdkonnas, samuti olnud kohaliku omavalitsuse volikogu liige. Mulle on oluline Eesti riigi tasakaalustatud areng ning eesti keele ja kultuuri kestmine. Riik peab praegu, mil elu koondub suurematesse linnadesse, tegelema maapiirkondade tugevdamisega. Kogu maa peab olema ühtlaselt kaetud eluks vajalike teenustega. Kindlasti on tähtis toetada lasterikkaid peresid ning laiendada rahvuslike väärtuste kandepinda – vastasel juhul Eesti püsima ei jää.
-64
-*****:  Olen põhiseaduse patrioot, kes seisab veendunult rahvusriigi eest. Rahvusriigi kaitsel kavatsen tegeleda nii Euroopa Liidu küsimustega kui ka Venemaalt lähtuvate uue külma sõja ohtudega. Eestit tuleb kaitsta suveräänsuse riivete eest. Nõuan ranget immigratsioonipoliitikat, seisan õigusemõistmise ning sisekaitse kõrge taseme eest. Taotlen, et maksumäärade kehtestamisel arvestataks laste arvu, ning soovin lisameetmeid sündimuse kasvatamiseks. Eesti ei pea trügima Euroopa viie kalleima riigi hulka, vaid peab rakendama mõistlikku maksupoliitikat, mis pidurdab piirikaubandust ja toetab inimeste toimetulekut.  
-65
-*****:  Rahvuskonservatiivina seisan rahvusriigi kaitsel ning multikultuurilise ühiskonnamudeli vastu.  Läbimõtlematu rohepööre ohustab majanduse konkurentsivõimet ning lammutab toimivat energeetikat. Tahan, et kasvaks Eesti majanduse konkurentsivõime ning riik panustaks rohkem regionaalpoliitikasse. Rahvusteadused ja kultuur peavad saama piisava rahastuse. Tahan seista meie laste eest, kellele surutakse juba kooliõpikutes peale homopropagandat ja kahtlusi oma bioloogilises soos. Selle asemel  peaks lastes kasvatama isamaalisust. Soovin seista naiste õiguste eest, naisi ei tohiks esindada radikaalsed feministid.
-66
-*****:  Olen positiivse ellusuhtumisega, avatud ja õppimisvõimeline inimene. Pean oluliseks ausust, moraali ja eetikat. Poliitilistelt vaadetelt olen rahvuskonservatiiv. Toetan traditsioonilisi perekonnaväärtusi. Endise linnapeana tean hästi, mida on vaja nii riigi kui ka kohalikul tasandil. Seisan selle eest, et tuua Eesti välja demokraatia-, demograafia- ja majanduskriisist. Eesti peab käituma väärika ja iseseisva riigina, lähtuma väärtuspõhisest poliitikast ja enda rahvuslikest huvidest. Annan selleks oma parima.
-67
-*****:  Olen liberaali ning konservatiivi ristsugutis.
-68
-*****:  Soovin oma teadmiste ja kogemustega panustada meie riigi tuleviku kujundamisse. Tahan, et Eesti areneks turvaliseks ja kriisikindlaks riigiks, kus on hea elada nii meil kui ka järgmistel põlvkondadel.
-69
-*****:  Olen hiidlane, kahe lapse ema, endine omavalitsusjuht. 
-70
-*****:  Olen maailmavaatelt liberaal ja leian, et riik peaks looma inimestele ja ettevõtetele soodsad tegutsemistingimused, mitte sekkuma nende tegemiste üksikasjadesse. Tahan aidata muuta Eesti ettevõtluskeskkonda lihtsamaks ja vähem bürokraatlikuks, samas olen väga huvitatud ettevõtjate välisturgudele minekule kaasaaitamisest.
-71
-*****:  Olen oma elus alati lähtunud põhimõttest, et aidata ja väärtustada tuleb kõiki inimesi, sõltumata soost, rahvusest või vanusest. Riigikogus soovin jätkata tööd iga inimese heaolu suurendamise ning meie rahvaarvu taas tõusule viimise nimel. Eesti vajab ühiskonda liitvat ja meie riiki edasiviivat poliitikat, kus on heaks tavaks osalusdemokraatia ja kuulamisoskus.
-72
-*****:  Olen 30 aastat tegutsenud ettevõtjana turunduskommunikatsiooni, toitlustuse ja kirjastamise valdkondades. Riigikogus on minu eesmärgiks seista eestimeelse, uuendusmeelse ja liberaalse Eesti tuleviku eest. Eesti peaks olema kõige ettevõtjasõbralikum riik maailmas. Kuid kõige parem majanduspoliitika on hariduspoliitika. Seepärast usun sellesse, et meie riik peab kõigepealt saama targaks ja seejärel jõukaks.
-73
-*****:  Minu eesmärk poliitikas on kaitsta meie omariiklust ning hoida ja arendada Eestit kui rahvusriiki, kus inimestel on turvaline elada ning ennast teostada.
-74
-*****:  Oma juurte poolest olen lõunaeestlane, Valgamaa mulk. Sündinud ja kasvanud olen ajaloolises suvituslinnas Tõrvas. Olen maaliberaal ja olen pikka aega olnud omavalitsusjuht. Huvitun mootorispordist ning olen kahekordne Balti meister bagikrossis.
-75
-*****:  Arvan, et Eesti on elamiseks parim koht kogu maailmas, ja soovin, et see oleks nii ka meie laste jaoks. Eestit ei tohiks mitte kunagi enam rünnata välisvaenlane ega nõrgestada kunstlikult üles puhutud väärtuskonfliktid. Saame õnnelikud olla üksnes siis, kui oskame riigi ja rahvana ühte hoida. Seisan selle eest, et Eesti julgeolek oleks tagatud, Eesti oleks avatud ja uuendusmeelne ning meie lapsed saaksid parima võimaliku hariduse. Lähtun sellest, et poliitika vajab kaalutletud, julgeid ja tarku otsuseid.
-76
-*****:  Pean oluliseks regionaalset arengut üle kogu Eesti.
-77
-*****:  Eesti kodanikuna soovin, et avalik võim tegutseks säästlikult ning Eesti riigi ülalpidamine oleks meile jõukohane. Viljandlasena ja Mulgimaa talunikuna tunnen nii linna kui maaelu muresid ja võlusid, seetõttu pean oluliseks regionaalpoliitikat, mis tasakaalustaks Tallinna-keskset arengut. Endise ministrina on mulle südamelähedased ka maaelu ja põllumajanduse areng. Samas peame mõistma, et Eesti on osa Euroopast ja meie rahvuslikud huvid peavad olema ka Brüsselis väärikalt kaitstud.      
-78
-*****:  Olen pärit Põlvamaalt Kanepi vallast. Arvan, et on vaja luua rohkem meeskonnatöö vaimu, samuti suurendada riigi usaldust kohalike omavalitsuste vastu, sest need on inimestele kõige lähemal ja suudavad kõige paremini kohalikul tasandil elu korraldada. Kogu meie riigi arengule ja julgeolekule on oluline kõigi regioonide võimalikult võrdne areng. Tahan, et hea ja turvaline oleks elada kõigis Eesti maapiirkondades ning et säiliks eesti keel, kultuur ja traditsioonid.
-79
-*****:  Olen konservatiiv. Riigikogu liikmena pean esmatähtsaks seista tugeva, traditsioonilise ja õnneliku perekonna eest, mis on keskendunud lastele. Ka on minu jaoks oluline eesti keele ja kultuuriga seonduv, samuti riigi ja inimeste majanduslik käekäik.
-80
-*****:  Eesti vajab tugevat ja arukat regionaalpoliitikat, et pakkuda kõigile Eesti elanikele kvaliteetseid teenuseid, head elukeskkonda, kaugtöö tegemise ning ühiskonnaelus osalemise võimalusi. Soovin olla Järva- ja Viljandimaa ning teiste maapiirkondade inimeste häälekandjaks Riigikogus ja anda pikaajalise omavalitsusjuhi praktilise kogemuse põhjal seadusloomesse oma panuse.
-81
-*****:  Seisan meie rahva kestmise ja perede toimetuleku eest maal ja linnas. Minu siht on hooliv ja turvaline keskkond, kus peredel ja lastel on hea elada, noortel ennast teostada ning vanemal põlvkonnal väärikalt vananeda. Töötan ettevõtliku, hooliva ja kogukondliku riigi nimel, kus üksteist toetatakse. Keegi ei tohiks jääda märkamatuks ja muredega üksi. Kaitsen kristlik-demokraatlikke ja isamaalisi konservatiivseid väärtusi.
-82
-*****:  Olen diplomaadina (suursaadikuna), Kaitseministeeriumi töötajana ja teadurina tegelenud välis-, julgeoleku- ja kaitsepoliitikaga alates Eesti iseseisvuse taastamisest augustis 1991. Jagan liberaalseid, isamaalisi ja uuenduslikke vaateid.
-83
-*****:  Mulle on alati olnud oluline hea ettevõtluskeskkond. Seisan tulevikuski kindlakäeliselt majandus- ja ettevõtluskeskkonna parandamise eest. Pean oluliseks seista tööstuse eest, mis annab suure panuse majanduskasvu.Uut plaani vajavad energeetika ja hariduspoliitika, mis suurel määral mõjutavad tööstuse tulevikku, näiteks inseneride juurdekasvu mõttes. Energeetikas on võimalik teha kiiresti otsuseid, mis tagaksid parema varustuskindluse ja koos salvestusvõimaluste kasvuga muudaksid Eesti energiat importivast riigist seda eksportivaks riigiks.
-84
-*****:  Soovin, et Eesti oleks arutleva demokraatiaga õigusriik, meie inimesed oleksid tervemad ja õnnelikumad ning eesti keel ja kultuur areneks. Seisan selle eest, et haridus ja teadus oleks rohkem väärtustatud, meditsiin muutuks patsiendikeskseks ning poliitikas oleks rohkem teadmispõhist otsustamist.
-85
-*****:  Olen sündinud ja koolis käinud Tartus, elanud üle 20 aasta Tallinnas ning kokku ligi 10 aastat USA-s ja Luksemburgis. Mul on enam kui 25 aasta pikkune rahvusvaheline rahandus- ja panganduskogemus, ministrina vedasin Eesti ettevõtluse ja digiriigi arengut. Olen liberaal, kes seisab vabaduse ning demokraatlike väärtuste eest nii kodumaal kui mujal maailmas. Ma seisan selle eest, et Eesti majandus oleks tugev, annaks igaühele võimaluse ennast teostada ja tagaks kõigile väärika vanaduspõlve.
-86
-*****:  Minu senine töökogemus on põhiliselt olnud seotud majanduse, riigirahanduse ja maksuvaldkonnaga. Seisan selle eest, et kasvaks majanduse konkurentsivõime ning Eesti oleks parim koht investeeringute tegemiseks ja töökohtade loomiseks. Pooldan vastutustundlikku eelarvepoliitikat. Pean oluliseks põhimõtet, et riigi jooksvaid kulusid kaetakse jooksvate tuludega ning laenu on põhjendatud võtta investeeringute tegemiseks ja erakorraliste kulude katmiseks. Panustan sellise poliitika kujundamisse, mis kasvatab inimeste sissetulekuid ja suurendab riigi julgeolekut. Pikaajalise Viimsi valla elanikuna olen kursis ka Harjumaa eluga, tunnen sealseid olusid ja lahendamist vajavaid põhiküsimusi.   
-87
-*****:  Olen teist koosseisu Riigikogu liige, kahekordne ema ja ka kahekordne olümpiavõitja. Mul on majandusmagistri kraad. Eesmärkide nimel olen terve elu kõvasti tööd teinud ja alati valmis sama pühendunult astuma vastu uutele väljakutsetele. Pean oma missiooniks Eesti inimeste, eriti just laste tervise ja liikumise edendamist. Meist sõltub, kui terve, pika ja õnneliku elu saavad elada järgmised põlvkonnad. Kui Eesti inimeste tervis on tugev, siis on tugev ka Eesti riigi tervis!
-88
-*****:  25 aastat Põhjamaade Sümfooniaorkestri mänedžerina on andnud mulle kogemused ja teadmised selle kohta, milliseid otsuseid meie kultuurivaldkond päriselt vajab. Koostöö ettevõtjatega on mulle õpetanud, mis motiveerib neid kultuuri ja sporti toetama. Ka riik saaks ettevõtjatega koostööd teha nii, et sport ja kultuur sellest võidaksid. Samuti olen kindel, et huviharidus peab olema alati kättesaadav. Lahendused on olemas, nende elluviimine on minu eesmärk ja südameasi.
-89
-*****:  Eesti väärib võimalust saada targaks, jõukaks ja õnnelikuks. Selleks on vaja jõuda uuele tasemele. Seisan oma kodulinna Pärnu ja kogu Pärnumaa arengu ning pärnakate huvide eest. Tahan, et Eesti võidaks sõja sõtta astumata ja kõigil inimestel oleks Eestis inimlik elada. Riigikogu peab võimu tagasi võtma, valitsussektor mugavustsoonist välja tulema ja pöörduma näoga inimeste poole, sest Eesti tulevikule tähtsad tööd tuleb päriselt ära teha.
-90
-*****:  Pean ennast looduse- ja kunstisõbraks, samas olen sisuliselt terve elu tegelenud ettevõtlusega. Olen sündinud ja koolis käinud Tallinnas, täna pean oma kodukohaks Käsmu küla Lääne-Virumaal.Riigikogus soovin juurutada mõtteviisi, et raha tuleb ettevõtlusest ja eksportiv keskkonnasõbralik tööstus on tulevikus meie edu alus. Usun, et rohepööre peab algama just ettevõtluse muutumisest keskkonnaga arvestavaks, siis on ka inimestel rohelist käitumisviisi lihtsam üle võtta. Haridus on kõige võti ja elu maal on päriselt võimalik.
-91
-*****:  Soovin aidata kaasa sellele, et Eesti elulaad, eesti keel ja kultuur kestaksid läbi aegade ja meie maa saaks täidetud lastega. Minu nägemuses peaks Eestis olema võimalik elada täisväärtuslikku elu nii suures linnas kui ka maapiirkonnas. Hoides ja toetades erinevaid Eestimaa piirkondi, muudame kogu Eesti tugevamaks ja edukamaks. Eesti inimeste edu tuleb hariduse kaudu.
-92
-*****:  Tartu Linnavolikogu liikmena olen poliitikas seisnud põhiliselt selle eest, et Tartul oleks linnana rohkem ambitsiooni. Riigi regionaalne roll minu silmis on olla eestvedaja ja abistaja, et tekiksid uued kohaliku tasandi investeeringud. Selle eest kavatsen seista ka Riigikogus.
-93
-*****:  Minu eesmärk on see, et Toompeal kõlaks noorte hääl. Mulle on oluline, et otsused, mis tehakse, oleksid Eestile kasulikud ka pikemas perspektiivis, ja et iga aastaga läheks elu Eestis paremaks. Ma tahan, et Eesti oleks koht, kus kõikide inimeste põhiõigused oleksid tagatud. Eesti peaks olema koht, kus peetakse oluliseks kliimakriisi lahendamist. Inimesed ei tohiks Eestis oma vaimse tervise probleemidega üksi jääda.
-94
-*****:  Sageli kõneldakse vananevast Eestist. Samas, küpses eas inimestel on ühiskonnas tähtis tasakaalustaja roll. Noorte ülesanne on olla kiirendaja, kuid elukogemusi ei tohi alahinnata. Tahan kaasa aidata, et 21. sajandi kolmas kümnend oleks Eestis põlvkondadevahelise koostöö, loovuse ja eneseusu aeg. Robotid muidugi tulevad, õigupoolest on nad juba kohal. Erinevate põlvkondade ja tehisintellekti vahelise harmoonia loomine on selle sajandi vaat üks põnevamaid väljakutseid. Aga määravaks jääb inimeste tahe ja oskus koos Eesti elu paremaks muuta.Saarlasena tahan seista Eesti saarte eest.     
-95
-*****:  Olen üle 25 aasta töötanud erinevatel poliitilistel positsioonidel Eesti hüvanguks. Mul on kogemus nii kohaliku omavalitsuse, riigi kui ka Euroopa tasandil. Tulin poliitikasse, kui algas minu elu kõige olulisem võitlus – võitlus Eesti iseseisvuse taastamise nimel. Pärast seda olen alati võidelnud parema ja hoolivama Eesti eest. Tuginedes oma pikaajalisele töökogemusele, tunnen, et mul on ideid ja teadmisi, mida Riigikogus rakendada.
-96
-*****:  Riik peab aitama neid, kes vajavad abi, ja mitte segama neid, kes saavad ise hakkama.
-97
-*****:  Olen elu jooksul tegutsenud edukalt erinevatel elualadel. Soovin oma mitmekülgset elukogemust kasutada ka Riigikogu liikme töös.
-98
-*****:  Olen vabaduse, demokraatia ja uuendusmeelsuse usku. Venemaa agressiooni ajal kaitseministri meeskonnas töötades sain ainulaadseid kogemusi ja teadmisi ning lõin uusi kontakte julgeoleku vallas. Julgeoleku, riigikaitse ja välispoliitikaga tegelemine on minu põhifookus ka Riigikogus. Endise elukutselise sportlasena seisan ka selle eest, et kõik Eesti inimesed oleksid tervemad ja sportlikumad. Kaitstud, liikuva ja tulevikku vaatava Eesti eest!
-99
-*****:  Olen rahvuskonservatiivsete vaadetega ja minu ideaal on rahvusriikide Euroopa. Eesti on osa Euroopa ühiskodust. Tehes paremaks Eesti, teeme ühtlasi paremaks kogu Euroopa.Meie Eesti riik on aga eestlusest võõrandumas. Sisseränne idapoolsetest riikidest on järsult suurenenud, sündide arv Eestis on langenud viimase 150 aasta madalaimale tasemele, kõrgkoolid on ingliskeelestunud ning nende õppe kvaliteet on halvenenud, üha rohkem Eestisse puutuvaid otsuseid tehakse väljaspool Eestit. Võib-olla on need meie ühiskonna allakäiguprotsessid paratamatud. Aga sel juhul tahaksin olla kindel, et see ongi meie teadlik valik. Kodanikele tuleb anda võimalus oma arvamus selgelt välja öelda ehk ühiskonnale tuleb tagastada võimalus algatada siduvaid referendumeid.
-100
-*****:  Riigikogu liikmena soovin ennekõike seista selle eest, et Eestis suhtutaks riigivõimu teostades põhiseadusesse tõsiselt. Põhiseadust peab käsitlema kohustusliku standardi, mitte pelgalt soovitusliku juhisena. Tõsiselt tuleb suhtuda nii rahvusriikluse, riikliku iseseisvuse, demokraatia, õigusriikluse kui ka perekonna ideaalidesse. Eriti oluliseks pean seda, et riigivõimu teostades ei taganetaks austusest kodanike põhiseaduslike õiguste ja vabaduste vastu.
+1 : Jaak-Aab
+Olen hariduselt õpetaja. Üle kümne aasta töötasin koolis, aga enamiku tööelust olen olnud avalikus teenistuses. Olen olnud Võhma linnapea, linnade liidu tegevdirektor, Riigikogu kolme koosseisu liige, sotsiaalminister, riigihalduse minister. Olen viiekordne vanaisa.Tahan seista õiglase ja solidaarse riigi eest. Mul on kogemusi ja teadmisi, et kaasa rääkida riigi sotsiaal- ja tervishoiupoliitika, regionaalpoliitika ning riigireformi valdkonnas. Kindlasti seisan oma valimisringkonna, Järva- ja Viljandimaa huvide eest.
+
+2 : Annely-Akkermann
+Ma tahan Eesti poliitikas esile kutsuda nelja mõtteviisi muutust. Ma soovin, et mõistetaks järgmist.Esiteks, maksude kehtestamisel tuleb vaadata meiega konkureerivate riikide maksumäärade mõju meie majandusele.Teiseks, tasuta asju ei ole olemas.Kolmandaks, peaaegu ainus poliitikutest sõltuv riigi arengu faktor on see, kui vähendatakse bürokraatiat ning ergutatakse ettevõtlikkust ja loovust.Neljandaks, looduskaitse on eelkõige loodusega kooskõlas elamine (mahepõllumajandus ning loodusvarade säästlik kasutamine).
+
+3 : Yoko-Alender
+Minu eesmärk on aidata hoida ja arendada Eestit, kus näen praegu ja tahan alati näha väärtuspõhist elu, avatust, julgust ja headust. Ma tahan, et siin oleks palju vabadust, loodust ja nutikust.Eestil seisavad ees tõsised väljakutsed. Me peame õppima loodusressurssidega ja ka inimressursiga säästvamalt ja targemalt ümber käima, peame majandama ringselt. Ainult nii saame oma lastele julgelt silma vaadata, sest siis teame, et jätame neile ja ka nende lastele elamisväärse Eesti, maailma parima elukeskkonnaga Eesti. Just see ongi minu eesmärk: töötada selle nimel, et saaksin oma ja kõigile Eesti lastele selgelt ja julgelt silma vaadata.
+
+4 : Anti-Allas
+Olen Eesti patrioot. Kogu oma senise teadliku elu olen erinevatel viisidel pühendunult  tegutsenud Eesti elujõu suurendamise nimel. Mulle on väga oluline, et inimväärne elu oleks võimalik kõikjal Eestis ja et annaksime oma lastele parima võimaliku ettevalmistuse iseseisvaks eluks. Need kaks eesmärki on mulle minu Riigikogu töös kõige olulisemad. Samuti on mulle väga oluline tagada inimeste põhiseaduslike õiguste igakülgne järgimine.
+
+5 : Arvo-Aller
+Eesti riigi jätkusuutliku eksisteerimise üheks aluseks on toidujulgeoleku tagamine maaelu ja maapiirkondade tugevdamise abil. Soovin kaasa aidata kõikide Eesti maapiirkondade arengule ja toetada neisse piirkondadesse investeerimist. Pööran suurt tähelepanu sisserände ja töörände küsimustele. Kohalik inimene ei tohi kindlasti tunda ennast tõrjutu ja kõrvalejäetuna.Ida-Virumaa ja maaelu patrioodina seisan kogu selle piirkonna arengu eest. Riigikogus kaitsen meie riigi oma elektritootmist ja põlevkivitööstust.
+
+6 : Vadim-Belobrovtsev
+Olen 8 aastat töötanud ajakirjanduses ning ligi 15 aastat olen olnud poliitik ja töötanud ametnikuna. Riigikogu liikmena seisan Eesti ühiskonna suurema sidususe ning inimeste ja ettevõtete parema hakkama saamise eest. Riik peab olema armastatud kodu kõigile oma elanikele, sõltumata nende vanusest, rahvusest, soost või emakeelest. Seisan selle eest, et riik ulataks abikäe kõigile nendele, kes seda vajavad.
+
+7 : Enn-Eesmaa
+Töötan Riigikogus viiendat koosseisu. Esindan ja püüan ellu viia Eesti Keskerakonna ja mind Riigikokku valinud inimeste mõtteid.
+
+8 : Rain-Epler
+Kui riik ennast vaikselt Tallinnasse kokku tõmbab, lähevad inimesed paratamatult järele. Aga riik saab käituda ka vastupidiselt ja küll siis inimesed hea meelega Võru , Põlva  ja Valgamaal tegutsevad ning seal lapsi kasvatavad. Et õiged otsused sünniksid, peab Riigikogus olema rohkem neid, kes ise oma perega Kagu-Eestis päriselt elavad. Mina olen üks neist. Mina ei kavatse Võrumaalt kusagile kolida.
+
+10 : Kalle-Grünthal
+Olen 24 aastat ettevõtluse kaudu tegelenud juriidilise nõustamisega. Pikaajalised kogemused kinnitavad, et kehtivas õiguses, kohtusüsteemi ja prokuratuuri töös on palju ebaõiglust, mistõttu tavakodanik jääb oma muredega seaduste hammasrataste vahele. Julgen väita, et riik on oma valitsemisstiiliga rahvast eemaldunud, rahvas meenub alles siis, kui valimised lähenevad. Loodan, et mul õnnestub olukorda muuta, nii et riik oleks inimeste jaoks, mitte vastupidi. Ülitähtsaks pean mõtet „Ükski võõrvõim ei asenda omariiklust“.
+
+11 : Andre-Hanimägi
+Soovin, et Eesti oleks edukas ja õiglane riik, kus tunnustatakse neid, kes meie ühiskonda panustavad, ning aidatakse neid, kes vajavad suuremat tuge.
+
+12 : Anti-Haugas
+Olen maailmavaatelt klassikaline liberaal. Leian, et eraomanik on vara kõige parem peremees. Ei tohi piirata inimeste motivatsiooni pingutada ning parema tuleviku poole püüelda, pannes neile selle eest proportsionaalselt raskema koorma.Tituleerin end munitsipaalpoliitikuks, kellel maapiirkondade käekäik on alati südamel. Võtan alati sõna, kui on vaja kaitsta väljapoole Harjumaad jäävaid regioone. Eesti maaelu on väärtus, mida peame hoidma.
+
+13 : Helle-Moonika-Helme
+Olen muusik, väikeettevõtja ja poliitik. Riigikogus tahan tegeleda sotsiaalteemadega, seista pereväärtuste kaitsel, toetada ettevõtjaid ja kultuuritöötajaid. Ma lähtun põhimõttest, et Eesti riik on loodud eesti rahvuse, keele ja kultuuri säilimise tagamiseks üle aegade. Meie poliitika peab igas valdkonnas lähtuma tõsiasjast, et ilma eestlasteta ei ole ka Eesti riiki. Tahan teha kõik, et eesti rahva huvid oleksid kaitstud ja heaolu tagatud.
+
+14 : Mart-Helme
+Olen rahvuskonservatiiv, soovin seista Eesti rahvuskultuuri arengu ning Eesti riikluse ja iseseisvuse tugevnemise eest rahvusriikide Euroopas.
+
+16 : Lauri-Hussar
+Ma usun, et meie riiki on võimalik viia uuele tasemele nii hariduses, julgeolekus, riigivalitsemises, tervishoius, majanduses kui ka energeetikas. Usun ka seda, et õigete otsuste abil on Eestil ja meie inimestel võimalik olla tark ja jõukas ning erinev ja eriline. Riigikogu töös peab kesksel kohal olema Eesti inimene, kellele tahan anda usku ja lootust, et Eesti läheb edasi, avatuse, arukuse ja vabaduse teed.
+
+17 : Züleyxa-Izmailova
+Rohelise ja liberaalse maailmavaate esindajana olen seisnud nii keskkonna ja kliima kaitsmise kui ka inimeste õiguste ja võrdsete võimaluste eest. Seda tööd kavatsen teha ka Riigikogu liikmena, kasutades selleks kõiki ametikoha tõttu tekkivaid võimalusi. Minu unistus on, et nelja aasta pärast metsade tagavara vähenemise asemel suureneks, me oleksime riigina võtnud omaks kliimaneutraalse majanduse tee ning Riigikogu ees oleks parkla asemel park.
+
+18 : Aleksei-Jevgrafov
+Soovin kaasa aidata regioonide arengule. Olen Ida-Virumaa patrioot. Arvan, et see piirkond vajab ja väärib erilist tähelepanu.
+
+19 : Karmen-Joller
+Minu jaoks on oluline, et Eesti tervishoid oleks tugev ja jätkusuutlik ning patsientidele saaks pakkuda õigeaegset ja kvaliteetset abi. Lisaks pean oluliseks pidurdada terviseohtliku väärinfo levikut. Sel teemal vajab Eesti ühiskond diskussiooni, sest tuleb leida lahendused, mis ühtaegu tagavad piisava sõnavabaduse, aga ei kahjusta kellegi tervist.
+
+20 : Maria-Jufereva-Skuratovski
+Alates 2005. aastast olen tegelenud sotsiaalse sidususe ja integratsiooni teemadega eri tasanditel: teaduslikul, ajakirjanduslikul ja munitsipaaltasandil. Pean oluliseks jätkata tegevust suunas, mis soodustaks ühiskonna lõimumist ja ühise inforuumi tekkimist. Töötan selle nimel, et noortele oleks tagatud kvaliteetne ja nüüdisaegne haridus ning õppekeskkond oleks turvaline ja tõhus. Tahan panustada ka Eesti eakatele väärika elu loomisse.
+
+21 : Mario-Kadastik
+Olen teadlane, füüsik. Esindan teadmistepõhist ja teaduslikku mõtteviisi. Minu missiooniks on meie haridussüsteemi parandades tagada tark ja teadlik järelkasv, sest targad inimesed on vajalikud targa majanduse jaoks ning tehnoloogiliste võimaluste kaudu parema tuleviku loomiseks. Meie suurim väärtus on meie keskkond, mistõttu on seda ülimalt oluline kaitsta. Toetan laiapõhjalist, heitmevaba ning turupõhist energiaportfelli, mille abil oleks võimalik tagada jätkusuutlik tulevik ja julgeolek.
+
+22 : Raimond-Kaljulaid
+Endise ettevõtjana olen mõistagi kõige enam huvitatud sellest, et Riigikogu omalt poolt panustaks soodsa ettevõtluskeskkonna kujundamisse ning Eesti ettevõtete ekspordipotentsiaali realiseerimisse, toetades niimoodi majanduskasvu. Riigikogus olen seni enim tegelenud välis- ja julgeolekupoliitika teemadega ning need on majandus- ja rahandusküsimuste kõrval minu tähelepanu keskpunktis ka edaspidi. 
